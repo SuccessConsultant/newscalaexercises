@@ -5,4 +5,6 @@ package Garage
   */
 class Car(id: Int) extends Vehicle {
   override def toString: String = s"ID: $id, Is a car "
+
+
 }
