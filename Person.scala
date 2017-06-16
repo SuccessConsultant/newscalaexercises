@@ -5,4 +5,8 @@ package Garage
   */
 abstract class Person {
 
+  val name: String
+  val id: Int
+
+
 }
