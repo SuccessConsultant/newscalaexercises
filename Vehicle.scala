@@ -5,4 +5,8 @@ package Garage
   */
 abstract class Vehicle {
 
+  val id: Int
+  val model: String
+  val vehicleType: String
+
 }
